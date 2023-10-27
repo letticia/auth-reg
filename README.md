@@ -1,2 +1,2 @@
 # auth-reg
- 認証器レジストリ実験用
+ Github pages 実験用
