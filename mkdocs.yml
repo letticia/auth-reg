@@ -1,6 +1,30 @@
-site_name: My Docs
+site_name: Auth-reg test
+copyright: "&copy; Cyber Science Infrastructure Development Department, National Institute of Informatics"
+
+extra:
+  generator: false
+
+repo_url: https://github.com/letticia/auth-reg
+repo_name: auth-reg
+
 theme:
   name: material
   palette:
     primary: red
-    
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+
+nav:
+  - Introduction: index.md
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en 
+    - name: Japanese
+      link: /
+      lang: ja 
+
