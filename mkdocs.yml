@@ -17,10 +17,11 @@ nav:
   - Introduction: index.md
 
 extra:
+  homepage: https://letticia.github.io/auth-reg/
   generator: false
   alternate:
     - name: English
-      link: /en/
+      link: /auth-reg/en/
       lang: en 
     - name: Japanese
       link: /
