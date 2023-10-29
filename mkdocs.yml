@@ -1,9 +1,6 @@
 site_name: Auth-reg test
 copyright: "&copy; Cyber Science Infrastructure Development Department, National Institute of Informatics"
 
-extra:
-  generator: false
-
 repo_url: https://github.com/letticia/auth-reg
 repo_name: auth-reg
 
@@ -20,6 +17,7 @@ nav:
   - Introduction: index.md
 
 extra:
+  generator: false
   alternate:
     - name: English
       link: /en/
