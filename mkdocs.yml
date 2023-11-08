@@ -9,9 +9,10 @@ theme:
   palette:
     primary: red
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+#    - navigation.tabs
+#    - navigation.tabs.sticky
     - navigation.top
+    - toc.integrate
 
 nav:
   - トップページ: index.md
