@@ -14,7 +14,11 @@ theme:
     - navigation.top
 
 nav:
-  - Introduction: index.md
+  - トップページ: index.md
+  - コンテンツ1: 
+    - コンテンツ1-1: contents_1_1.md
+    - コンテンツ1-2: contents_1_2.md
+  - コンテンツ2: contents_2.md
 
 extra:
   homepage: https://letticia.github.io/auth-reg/

@@ -1,15 +1,16 @@
-#  MkDocs test page
+#  GitHub pagesテスト用ページ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- MkDocsを使っています。
+    - For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## MkDocsコマンド類
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## ディレクトリ構造など
 
     mkdocs.yml    # The configuration file.
     docs/
